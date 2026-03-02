@@ -300,10 +300,4 @@ Business Opportunities ID:   5+ major optimization opportunities
 - Pre-aggregated views eliminate unnecessary calculations
 - Parameterized queries for Tableau reduce refresh time
 - Consider materialized views for frequently accessed metrics 
-**Markets Covered**: 28 countries  
-
----
-
-**Your Tableau business intelligence project is ready for portfolio and interview use! 🚀**
-
-For next steps, refer to TABLEAU_SETUP_GUIDE.md to build your interactive dashboard.
+**Markets Covered**: 28 countries
