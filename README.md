@@ -5,8 +5,7 @@
 A comprehensive **end-to-end data analysis and business intelligence project** leveraging MySQL for advanced data manipulation and Tableau for interactive dashboard visualization. This project transforms raw sales data into actionable business insights through rigorous SQL analysis and professional data visualization.
 
 **Dataset**: 2,823 sales transactions spanning 36 months (2003-2005) across 98 customers in 28 countries  
-**Tech Stack**: SQL • Tableau • MySQL • Data Warehousing • Business Intelligence  
-**Portfolio Value**: High - demonstrates analytics, database, and BI expertise
+**Tech Stack**:Python • SQL • Tableau • MySQL • Data Warehousing • Business Intelligence  
 
 ---
 
