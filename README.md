@@ -2,7 +2,9 @@
 
 ## 📊 Project Overview
 
-A comprehensive **end-to-end data analysis and business intelligence project** leveraging MySQL for advanced data manipulation and Tableau for interactive dashboard visualization. This project transforms raw sales data into actionable business insights through rigorous SQL analysis and professional data visualization.
+A comprehensive **end-to-end Sales Analytics, Time Series, and Business Intelligence** project integrating **MySQL, Python, and Tableau** to extract, transform, analyze, and visualize transactional sales data. MySQL was utilized for advanced data extraction and complex query-based manipulation, Python for data cleaning, exploratory analysis, profitability modeling, and time-series evaluation, and Tableau for developing interactive, insight-driven dashboards.
+
+Through structured SQL analysis, temporal trend modeling, KPI assessment, and professional data visualization, the project uncovers revenue patterns, seasonal dynamics, profitability fluctuations, customer purchasing behavior, and long-term customer value — enabling data-driven strategic decision-making and revenue optimization.
 
 **Dataset**: 2,823 sales transactions spanning 36 months (2003-2005) across 98 customers in 28 countries  
 **Tech Stack**: Python • SQL • Tableau • MySQL • Data Warehousing • Business Intelligence  
