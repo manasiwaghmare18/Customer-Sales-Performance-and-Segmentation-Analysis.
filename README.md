@@ -77,6 +77,8 @@ Rolling averages helped smooth volatility and reveal underlying trends.
 - Implemented parameterized SQL queries for real-time Tableau connectivity and live data updates
 - **Impact**: Transformed static analysis into interactive, self-service analytics enabling 40% faster reporting cycles and democratized data access
 
+<img width="831" height="407" alt="image" src="https://github.com/user-attachments/assets/a9e38fa4-d3c0-4344-af83-264a7df8db55" />
+
 ---
 
 ## 📈 Dataset & Database Schema
