@@ -8,6 +8,31 @@ A comprehensive **end-to-end data analysis and business intelligence project** l
 **Tech Stack**: Python • SQL • Tableau • MySQL • Data Warehousing • Business Intelligence  
 
 ---
+## Time Series & Trend Analysis
+
+The project includes detailed time-series analysis to uncover temporal sales patterns:
+
+📆 Sales by Day of Week
+
+📅 Monthly Revenue Trends
+
+📊 Quarterly Performance Analysis
+
+📈 Year-over-Year Growth Comparison
+
+🔄 Rolling Averages for Trend Smoothing
+
+🌤 Seasonal Impact (Winter, Spring, Summer, Fall)
+
+**Key Insight:**
+
+Q4 consistently generated the highest revenue and profit.
+
+Fall season showed peak sales performance.
+
+Clear mid-year fluctuations and year-over-year variability were identified.
+
+Rolling averages helped smooth volatility and reveal underlying trends.
 
 ## 🎯 Top 5 Key Achievements
 
