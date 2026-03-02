@@ -332,3 +332,8 @@ Business Opportunities ID:   5+ major optimization opportunities
 - Parameterized queries for Tableau reduce refresh time
 - Consider materialized views for frequently accessed metrics 
 **Markets Covered**: 28 countries
+
+### Tableau Public link
+https://public.tableau.com/app/profile/mansi.waghmare1807/viz/CustomerMarketAnalysis_17722429660290/CustomerMarketAnalysis
+https://public.tableau.com/app/profile/mansi.waghmare1807/viz/SalesPerformanceOverview_17722416499340/SalesPerformanceOverview
+
