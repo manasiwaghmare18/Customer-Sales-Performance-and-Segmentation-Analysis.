@@ -134,38 +134,6 @@ A comprehensive **end-to-end data analysis and business intelligence project** l
 - Order frequency patterns and customer purchase cycles
 - Data quality validation (0% missing critical fields, 100% data integrity)
 
----
-
-## 📁 Project Structure & Deliverables
-
-```
-customer-sales-analysis/
-├── 📚 DOCUMENTATION
-│   ├── README.md (this file)
-│   ├── PROJECT_SUMMARY.md
-│   ├── RESUME_HIGHLIGHTS.md
-│   ├── QUICKSTART.md
-│   ├── TABLEAU_SETUP_GUIDE.md
-│   ├── TABLEAU_ASSETS.md
-│   └── INDEX.md
-│
-├── 🗄️ DATABASE & SQL
-│   ├── CSA-in-MySQL.sql (complete analysis - 500+ lines)
-│   └── tableau/ (6 optimized queries)
-│       ├── 01_Sales_Trends.sql
-│       ├── 02_Product_Analysis.sql
-│       ├── 03_RFM_Segmentation.sql
-│       ├── 04_Geographic_Analysis.sql
-│       ├── 05_Top_Customers.sql
-│       └── 06_Dashboard_Summary.sql
-│
-└── 📊 DATA
-    ├── sales_data_sample.csv (2,823 transactions)
-    └── CSA-in-MySQL-gvhks.sql (original SQL setup)
-```
-
----
-
 ## 🔍 SQL Query Highlights
 
 ### Data Cleaning & Standardization
@@ -277,31 +245,14 @@ ORDER BY month;
 
 ---
 
-## 🚀 How to Use This Project
 
-### For Your Resume
-Copy the summary from PROJECT_SUMMARY.md and use it verbatim. Key metrics to highlight:
-- 2,823 transactions analyzed across 28 countries
-- $547K champion customer revenue identified via RFM segmentation
-- $200K-500K profit optimization opportunity discovered
-- 8+ interactive Tableau visualizations created
-- 100% data quality achievement with SQL standardization
-
-### For Portfolio Presentation
 1. **Problem Statement**: "2,823 transactions from 2003-2005 in raw format lacked business structure"
 2. **Analysis Approach**: "Performed SQL data cleaning, RFM segmentation, profitability analysis"
 3. **Key Insights**: "Identified geographic risk (51% USA), product concentration (68% from 2 categories), seasonality (28% Q4 lift)"
 4. **Deliverable**: "Created interactive Tableau dashboard with 6 data sources and 8+ visualizations"
 5. **Impact**: "$200K-500K profit optimization opportunity and 40% faster reporting capability"
 
-### For Technical Interviews
-- **SQL Depth**: Discuss window functions, query optimization techniques, view materialization
-- **Database Design**: Explain normalization for OLTP vs denormalization for OLAP analytics
-- **Performance**: Describe optimization techniques used for Tableau query performance
-- **Data Quality**: Walk through standardization logic and validation approaches
-- **Scalability**: Discuss how solution scales from 2,823 to millions of records
 
-### For Data Analytics Interviews
 - **Business Metrics**: Explain CLV ($5,628), RFM framework, segment definitions
 - **Exploratory Analysis**: Discuss how you discovered the 28% seasonal variance
 - **Visualization**: Explain chart selection rationale and design principles
@@ -324,33 +275,6 @@ Data Quality Validation:     100% (0% null critical fields)
 Business Opportunities ID:   5+ major optimization opportunities
 ```
 
----
-
-## 🔧 Installation & Setup
-
-### Requirements
-- MySQL 5.7+ (or MariaDB)
-- Tableau Desktop or Tableau Server
-- CSV viewer or Excel (for data exploration)
-
-### Database Setup
-```bash
-# Import the SQL file to create database, tables, and run analysis
-mysql -u root -p < CSA-in-MySQL.sql
-
-# Verify setup
-mysql -u root -p
-mysql> SELECT COUNT(*) FROM sales_data_sample;  # Should return 2823
-```
-
-### Tableau Setup
-1. Open Tableau Desktop
-2. Connect to MySQL database using credentials
-3. Use queries from `/tableau/` folder as data sources
-4. Follow TABLEAU_SETUP_GUIDE.md for step-by-step dashboard build
-5. Save workbook as .twbx file
-
----
 
 ## 📚 Learning Resources Used
 
@@ -360,9 +284,7 @@ mysql> SELECT COUNT(*) FROM sales_data_sample;  # Should return 2823
 - Customer Lifetime Value Calculation Methodology
 - Tableau Best Practices for Dashboard Design
 - Business Intelligence Concepts and KPI Design
-
----
-
+- 
 ## 📌 For Quick Reference
 
 ### Most Important Metrics
@@ -378,22 +300,7 @@ mysql> SELECT COUNT(*) FROM sales_data_sample;  # Should return 2823
 - All queries indexed on DATE and PRODUCT_LINE
 - Pre-aggregated views eliminate unnecessary calculations
 - Parameterized queries for Tableau reduce refresh time
-- Consider materialized views for frequently accessed metrics
-
----
-
-## 🏁 Project Status
-
-✅ **Data Analysis Complete**  
-✅ **SQL Queries Optimized**  
-✅ **Tableau Dashboard Ready**  
-✅ **Documentation Complete**  
-✅ **Portfolio Ready**  
-✅ **Production Quality**  
-
-**Project Completion Date**: Feb 24, 2026  
-**Data Coverage**: 2003-2005 (36 months)  
-**Records Analyzed**: 2,823 transactions  
+- Consider materialized views for frequently accessed metrics 
 **Markets Covered**: 28 countries  
 
 ---
