@@ -76,6 +76,8 @@ Rolling averages helped smooth volatility and reveal underlying trends.
   - Executive KPI summary cards with key business metrics
 - Implemented parameterized SQL queries for real-time Tableau connectivity and live data updates
 - **Impact**: Transformed static analysis into interactive, self-service analytics enabling 40% faster reporting cycles and democratized data access
+  
+<img width="1590" height="761" alt="image" src="https://github.com/user-attachments/assets/cd5aa70b-3b60-46e6-9b06-73dca2d4f126" />
 
 <img width="831" height="407" alt="image" src="https://github.com/user-attachments/assets/a9e38fa4-d3c0-4344-af83-264a7df8db55" />
 
