@@ -1,4 +1,4 @@
-# Customer Sales Analysis - SQL & Tableau Business Intelligence Project
+# Advanced Sales Analytics & Customer Intelligence using Python, SQL & Tableau
 
 ## 📊 Project Overview
 
