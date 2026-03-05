@@ -195,16 +195,6 @@ Data Analytics | Business Intelligence | SQL | Python | Tableau
 
 ---
 
-# ⚡ If you'd like, I can also help you add **next-level graphics** that make your README look like **top data science portfolios**, such as:
-
-✔ Data pipeline diagrams
-✔ KPI infographic blocks
-✔ Interactive GIF dashboard preview
-✔ Project architecture visuals
-✔ Animated analytics charts
-
-These **instantly make recruiters notice your GitHub profile**.
-
 ## Time Series & Trend Analysis
 
 The project includes detailed time-series analysis to uncover temporal sales patterns:
