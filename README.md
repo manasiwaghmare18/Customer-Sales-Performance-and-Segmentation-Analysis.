@@ -1,15 +1,210 @@
 # Advanced Sales Analytics & Customer Intelligence using Python, SQL & Tableau
 
-## 📊 Project Overview
+### SQL • Python • Tableau Business Intelligence Project
 
-A comprehensive **end-to-end Sales Analytics, Time Series, and Business Intelligence** project integrating **MySQL, Python, and Tableau** to extract, transform, analyze, and visualize transactional sales data. MySQL was utilized for advanced data extraction and complex query-based manipulation, Python for data cleaning, exploratory analysis, profitability modeling, and time-series evaluation, and Tableau for developing interactive, insight-driven dashboards.
-
-Through structured SQL analysis, temporal trend modeling, KPI assessment, and professional data visualization, the project uncovers revenue patterns, seasonal dynamics, profitability fluctuations, customer purchasing behavior, and long-term customer value — enabling data-driven strategic decision-making and revenue optimization.
-
-**Dataset**: 2,823 sales transactions spanning 36 months (2003-2005) across 98 customers in 28 countries  
-**Tech Stack**: Python • SQL • Tableau • MySQL • Data Warehousing • Business Intelligence  
+![Project Banner](https://img.shields.io/badge/Data%20Analytics-SQL%20%7C%20Python%20%7C%20Tableau-blue)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+![Dataset](https://img.shields.io/badge/Dataset-2823%20Transactions-orange)
+![Countries](https://img.shields.io/badge/Countries-28-blueviolet)
+![Customers](https://img.shields.io/badge/Customers-98-yellow)
 
 ---
+
+# 📊 Project Overview
+
+This project presents an **end-to-end Sales Analytics and Business Intelligence solution** transforming raw transactional sales data into actionable insights using **SQL, Python, and Tableau**.
+
+The analysis covers **2,823 transactions across 36 months (2003–2005)** involving **98 customers across 28 countries**, revealing patterns in:
+
+✔ Revenue trends
+✔ Customer value segmentation
+✔ Product profitability
+✔ Geographic sales distribution
+✔ Seasonal demand patterns
+
+The project demonstrates how data analytics can **drive strategic business decisions and revenue optimization**.
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-Analytics-blue?logo=python">
+<img src="https://img.shields.io/badge/MySQL-Database-orange?logo=mysql">
+<img src="https://img.shields.io/badge/SQL-Query%20Language-red?logo=database">
+<img src="https://img.shields.io/badge/Tableau-Data%20Visualization-purple?logo=tableau">
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-darkblue?logo=pandas">
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-lightblue?logo=numpy">
+
+</p>
+
+---
+
+# 🏗 Project Architecture
+
+```
+Raw Sales Dataset
+        │
+        ▼
+SQL Data Cleaning & Transformation
+        │
+        ▼
+Feature Engineering
+  • Profit Calculation
+  • Date Normalization
+  • RFM Metrics
+        │
+        ▼
+SQL Analytical Views
+        │
+        ▼
+Python Analysis (EDA & Time Series)
+        │
+        ▼
+Tableau Data Sources
+        │
+        ▼
+Interactive Business Intelligence Dashboards
+```
+
+---
+
+# 📈 Dataset Overview
+
+| Metric          | Value     |
+| --------------- | --------- |
+| 📦 Transactions | 2,823     |
+| 👥 Customers    | 98        |
+| 🌍 Countries    | 28        |
+| 📅 Time Period  | 2003–2005 |
+| 💰 Revenue      | $10.1M    |
+| 📊 Profit       | $2.4M     |
+
+---
+
+# 📊 Dashboard Preview
+
+## Customer & Market Analysis Dashboard
+
+<img src="YOUR_IMAGE_LINK_HERE" width="900">
+
+Features:
+
+✔ Customer segmentation (RFM)
+✔ Geographic market analysis
+✔ Top customers ranking
+✔ Revenue by country
+
+---
+
+## Sales Performance Overview Dashboard
+
+<img src="YOUR_IMAGE_LINK_HERE" width="900">
+
+Features:
+
+✔ Sales trends over time
+✔ Product performance comparison
+✔ Revenue growth analysis
+✔ Product mix trends
+
+---
+
+# 📊 Interactive Tableau Dashboards
+
+### Sales Performance Overview
+
+🔗 View Dashboard
+[https://public.tableau.com/app/profile/mansi.waghmare1807/viz/SalesPerformanceOverview_17722416499340/SalesPerformanceOverview](https://public.tableau.com/app/profile/mansi.waghmare1807/viz/SalesPerformanceOverview_17722416499340/SalesPerformanceOverview)
+
+---
+
+### Customer & Market Analysis
+
+🔗 View Dashboard
+[https://public.tableau.com/app/profile/mansi.waghmare1807/viz/CustomerMarketAnalysis_17722429660290/CustomerMarketAnalysis](https://public.tableau.com/app/profile/mansi.waghmare1807/viz/CustomerMarketAnalysis_17722429660290/CustomerMarketAnalysis)
+
+---
+
+# 📊 Key Insights Discovered
+
+### 🏆 Top Product Category
+
+Classic Cars generated **36.8% of total revenue**.
+
+### 🌍 Geographic Concentration
+
+USA accounts for **51.5% of customers**, indicating expansion opportunity.
+
+### 👑 High-Value Customers
+
+Top **20% of customers generate 65% of revenue**.
+
+### 📅 Seasonal Sales Pattern
+
+Q4 drives **28% of annual revenue**.
+
+---
+
+# 💡 Business Opportunities
+
+| Strategy                       | Potential Impact |
+| ------------------------------ | ---------------- |
+| Geographic Expansion           | +$50K–$100K      |
+| Customer Retention Programs    | +$50K–$200K      |
+| Discount Optimization          | +$100K–$150K     |
+| Product Portfolio Optimization | +$50K–$80K       |
+
+Estimated annual improvement:
+
+💰 **$200K–$500K revenue opportunity**
+
+---
+
+# 🧩 Skills Demonstrated
+
+### Technical Skills
+
+✔ Advanced SQL (Window Functions, CTEs)
+✔ Data Cleaning & Transformation
+✔ Time Series Analysis
+✔ Business Intelligence Dashboarding
+✔ Data Visualization (Tableau)
+
+### Business Skills
+
+✔ KPI Design
+✔ Customer Segmentation
+✔ Data-Driven Decision Making
+✔ Strategic Business Insights
+
+---
+
+# 👩‍💻 Author
+
+**Mansi Waghmare**
+Data Analytics | Business Intelligence | SQL | Python | Tableau
+
+🔗 LinkedIn
+[www.linkedin.com/in/mansiowaghmare](http://www.linkedin.com/in/mansiowaghmare)
+
+---
+
+# ⭐ If you found this project useful, consider giving it a star!
+
+---
+
+# ⚡ If you'd like, I can also help you add **next-level graphics** that make your README look like **top data science portfolios**, such as:
+
+✔ Data pipeline diagrams
+✔ KPI infographic blocks
+✔ Interactive GIF dashboard preview
+✔ Project architecture visuals
+✔ Animated analytics charts
+
+These **instantly make recruiters notice your GitHub profile**.
+
 ## Time Series & Trend Analysis
 
 The project includes detailed time-series analysis to uncover temporal sales patterns:
