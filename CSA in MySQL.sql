@@ -103,7 +103,7 @@ ALTER TABLE sales_data_sample
 MODIFY COLUMN cost DOUBLE;
 
 UPDATE sales_data_sample
-SET cost = PRICE_EACH * 0.7;
+SET cost = QUANTITY_ORDERED * PRICE_EACH * 0.7;
 
 SELECT PRODUCT_LINE, 
 	ROUND(cost, 2) total_cost
