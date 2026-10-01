@@ -1,0 +1,93 @@
+CUSTOMER_NAME,RECENCY,FREQUENCY,MONETARY_VALUE,RFM_SCORE,CUSTOMER_SEGMENT,TOTAL_REVENUE
+"Boards & Toys Co.",112,2,9129.35,421,"Low Value",9129.35
+"Atelier graphique",187,3,24179.96,331,"Low Value",24179.96
+"Auto-Moto Classics Inc.",179,3,26479.26,331,"Low Value",26479.26
+"Microscale Inc.",209,2,33144.93,211,"Low Value",33144.93
+"Royale Belge",141,4,33440.10,451,"Potential Loyalists",33440.10
+"Bavarian Collectables Imports, Co.",258,1,34993.92,111,"Low Value",34993.92
+"Double Decker Gift Stores, Ltd",495,2,36019.04,111,"Low Value",36019.04
+"Cambridge Collectables Co.",388,2,36163.62,111,"Low Value",36163.62
+"West Coast Collectables Co.",488,2,46084.64,111,"Low Value",46084.64
+"Men 'R' US Retailers, Ltd.",508,2,48048.46,111,"Low Value",48048.46
+"CAF Imports",438,2,49642.05,111,"Low Value",49642.05
+"Signal Collectibles Ltd.",476,2,50218.51,111,"Low Value",50218.51
+"Mini Auto Werke",82,3,52263.90,441,"Potential Loyalists",52263.90
+"Iberia Gift Imports, Corp.",237,2,54723.62,221,"Low Value",54723.62
+"Online Mini Collectables",263,2,57197.96,111,"Low Value",57197.96
+"Gift Ideas Corp.",178,3,57294.42,331,"Low Value",57294.42
+"Clover Collections, Co.",257,2,57756.43,221,"Low Value",57756.43
+"Australian Gift Network, Co",118,3,59469.12,441,"Potential Loyalists",59469.12
+"Australian Collectables, Ltd",22,3,64591.46,521,"Low Value",64591.46
+"Auto Assoc. & Cie.",232,2,64834.32,222,"Low Value",64834.32
+"Classic Gift Ideas, Inc",229,2,67506.97,222,"Low Value",67506.97
+"Osaka Souveniers Co.",413,2,67605.07,112,"Low Value",67605.07
+"Daedalus Designs Imports",465,2,69052.41,112,"Low Value",69052.41
+"Alpha Cognac",64,3,70488.44,442,"Potential Loyalists",70488.44
+"Diecast Collectables",400,2,70859.78,112,"Low Value",70859.78
+"Quebec Home Shopping Network",30,3,74204.79,542,"Potential Loyalists",74204.79
+"Mini Wheels Co.",194,3,74476.18,332,"Low Value",74476.18
+"Royal Canadian Collectables, Ltd.",284,2,74634.85,112,"Low Value",74634.85
+"Marseille Mini Autos",145,3,74936.14,332,"Low Value",74936.14
+"Petit Auto",1,3,74972.52,522,"Low Value",74972.52
+"Canadian Gift Exchange Network",221,2,75238.92,222,"Low Value",75238.92
+"Volvo Model Replicas, Co",193,4,75754.88,352,"Low Value",75754.88
+"Classic Legends Inc.",191,3,77795.20,332,"Low Value",77795.20
+giftsbymail.co.uk,211,2,78240.84,212,"Low Value",78240.84
+"Enaco Distributors",188,3,78411.86,332,"Low Value",78411.86
+"Lyon Souveniers",75,3,78570.34,442,"Potential Loyalists",78570.34
+"Norway Gifts By Mail, Co.",283,2,79224.23,112,"Low Value",79224.23
+"Super Scale Inc.",392,2,79472.07,112,"Low Value",79472.07
+"Mini Caravy",47,3,80438.48,543,"Loyal Customers",80438.48
+"Collectables For Less Inc.",131,3,81577.98,433,"Potential Loyalists",81577.98
+"Signal Gift Stores",183,3,82751.08,333,"Low Value",82751.08
+Gifts4AllAges.com,25,3,83209.88,543,"Loyal Customers",83209.88
+"Tekni Collectables Inc.",58,3,83228.19,443,"Loyal Customers",83228.19
+"Motor Mint Distributors Inc.",195,3,83682.16,333,"Low Value",83682.16
+"Blauer See Auto, Co.",207,4,85171.59,243,"Loyal Customers",85171.59
+"Mini Classics",228,2,85555.99,223,"Low Value",85555.99
+"Collectable Mini Designs Co.",460,2,87489.23,113,"Low Value",87489.23
+"Vitachrome Inc.",207,3,88041.26,223,"Low Value",88041.26
+"Stylish Desk Decors, Co.",179,3,88804.50,333,"Low Value",88804.50
+"Auto Canal Petit",54,3,93170.66,443,"Loyal Customers",93170.66
+"Cruz & Sons Co.",196,3,94015.73,233,"At Risk",94015.73
+"Amica Models & Co.",264,2,94117.26,113,"Low Value",94117.26
+"La Corne D'abondance, Co.",192,3,97203.68,333,"Low Value",97203.68
+FunGiftIdeas.com,89,3,98923.73,443,"Loyal Customers",98923.73
+"Toms Spezialitten, Ltd",227,2,100306.58,223,"Low Value",100306.58
+"Heintze Collectables",221,2,100595.55,223,"Low Value",100595.55
+"Gift Depot Inc.",26,3,101894.79,544,Champions,101894.79
+"Marta's Replicas Co.",230,2,103080.38,224,"Low Value",103080.38
+"Oulu Toy Supplies, Inc.",120,3,104370.38,434,"Potential Loyalists",104370.38
+Toys4GrownUps.com,139,3,104561.96,434,"Potential Loyalists",104561.96
+"Mini Creations Ltd.",144,3,108951.13,334,"Low Value",108951.13
+"Toys of Finland, Co.",111,3,111250.38,444,Champions,111250.38
+"Herkku Gifts",270,3,111640.28,124,"Low Value",111640.28
+"Suominen Souveniers",145,3,113961.15,334,"Low Value",113961.15
+"Handji Gifts& Co",38,4,115498.73,554,Champions,115498.73
+"Baane Mini Imports",207,4,116599.19,244,"Loyal Customers",116599.19
+"Vida Sport, Ltd",274,2,117713.56,114,"Low Value",117713.56
+"UK Collectables, Ltd.",53,3,118008.27,544,Champions,118008.27
+"Tokyo Collectables, Ltd",39,4,120562.74,554,Champions,120562.74
+"Corrida Auto Replicas, Ltd",211,3,120615.28,224,"Low Value",120615.28
+"Technics Stores Inc.",146,4,120783.07,344,"Loyal Customers",120783.07
+"Diecast Classics Inc.",1,4,122138.14,554,Champions,122138.14
+"Online Diecast Creations Co.",208,3,131685.30,224,"Low Value",131685.30
+"Scandinavian Gift Ideas",89,3,134259.33,444,Champions,134259.33
+"Reims Collectables",62,5,135042.94,455,Champions,135042.94
+"Rovelli Gifts",200,3,137955.72,225,"Low Value",137955.72
+"L'ordine Souveniers",21,3,142601.33,525,"Low Value",142601.33
+"Saveley & Henriot, Co.",455,3,142874.25,125,"Low Value",142874.25
+"Danish Wholesale Imports",46,5,145041.60,555,Champions,145041.60
+"Salzburg Collectables",14,4,149798.63,555,Champions,149798.63
+"Corporate Gift Ideas Co.",97,4,149882.50,455,Champions,149882.50
+"Souveniers And Things Co.",2,4,151570.98,555,Champions,151570.98
+"Anna's Decorations, Ltd",83,4,153996.13,455,Champions,153996.13
+"AV Stores, Co.",195,3,157807.81,335,"Low Value",157807.81
+"The Sharp Gifts Warehouse",39,4,160010.27,555,Champions,160010.27
+"Land of Toys Inc.",197,4,164069.44,245,"Loyal Customers",164069.44
+"Dragon Souveniers, Ltd.",90,5,172989.68,455,Champions,172989.68
+"La Rochelle Gifts",0,4,180124.90,555,Champions,180124.90
+"Muscle Machine Inc",181,4,197736.94,355,"Loyal Customers",197736.94
+"Australian Collectors, Co.",183,5,200995.41,355,"Loyal Customers",200995.41
+"Mini Gifts Distributors Ltd.",2,17,654858.06,555,Champions,654858.06
+"Euro Shopping Channel",0,26,912294.11,555,Champions,912294.11

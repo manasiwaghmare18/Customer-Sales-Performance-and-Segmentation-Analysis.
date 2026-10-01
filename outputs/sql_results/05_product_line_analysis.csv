@@ -1,0 +1,8 @@
+PRODUCT_LINE,total_revenue,total_orders,unique_customers
+"Classic Cars",3919615.66,199,89
+"Vintage Cars",1903150.84,175,84
+Motorcycles,1166388.34,72,49
+"Trucks and Buses",1127789.84,73,48
+Planes,975003.57,59,47
+Ships,714437.13,65,48
+Trains,226243.47,45,34
